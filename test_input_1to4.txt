@@ -1,0 +1,83 @@
+1
+Dune
+Frank Herbert
+1965
+9780441013593
+desert sci-fi sandworm
+F
+2
+1
+1984
+George Orwell
+1949
+9780451524935
+dystopia totalitarianism metaphysics
+F
+3
+1
+StructureAndInterpretation
+Abelson & Sussman
+1985
+9780262510875
+programming scheme desert
+CS
+5
+1
+CritiqueOfPureReason
+Immanuel Kant
+1781
+9780140447477
+epistemology metaphysics
+P
+1
+9
+Leo
+Dune
+9
+Jacky
+Dune
+9
+Ray
+Dune
+9
+Ray
+1984
+9
+Jacky
+1984
+9
+Ray
+1984
+2
+1965
+2
+1949
+2
+2020
+3
+9780441013593
+3
+CritiqueOfPureReason
+3
+NotARealBook
+4
+Fiction
+4
+Philosophy
+4
+CS
+4
+History
+5
+15
+metaphysics
+15
+metaphysics epistemology 
+15
+metaphysics epistemology desert
+13
+Leo
+14
+7
+12
+16

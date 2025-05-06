@@ -1,0 +1,68 @@
+1
+CppPrimer
+Stanley Lippman
+2012
+9780321714114
+C++ programming education
+CS
+3
+1
+EffectiveCpp
+Scott Meyers
+2005
+9780321334879
+C++ programming tips
+CS
+2
+1
+DesignPatterns
+Erich Gamma
+1994
+9780201633610
+design patterns OOP architecture
+CS
+2
+1
+Refactoring
+Martin Fowler
+1999
+9780201485677
+refactoring design improvement design
+CS
+2
+1
+AIPlayground
+John Smith
+2023
+1111111111111
+AI machineLearning programming
+CS
+1
+1
+JavaThinking
+Bruce Eckel
+2006
+9780131872486
+Java programming education OOP
+CS
+2
+8                     
+C++
+8                    
+design
+8                     
+machineLearning
+8                     
+C++ programming
+8                     
+design patterns
+8
+apple
+8                     
+programming OOP
+8                    
+programming
+8                     
+C++ programming tips
+5                     
+9                   

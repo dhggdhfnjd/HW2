@@ -1,0 +1,72 @@
+1
+Dune
+Frank Herbert
+1965
+9780441013593
+sci-fi desert
+F
+2
+1
+1984
+George Orwell
+1949
+9780451524935
+dystopia politics
+F
+3
+1
+LinearAlgebra
+Gilbert Strang
+2016
+9780980232776
+math algebra
+M
+1
+2
+1965
+3
+9780451524935
+4
+Fiction
+11
+9
+Alice
+Dune
+9
+Bob
+1984
+9
+Alice
+LinearAlgebra
+5
+7
+6
+11
+11
+11
+11
+11
+11
+11
+11
+11
+11
+12
+10
+Alice
+Dune
+9
+6
+8
+15
+desert
+13
+Alice
+14
+7
+8
+5
+2
+5
+14
+16
